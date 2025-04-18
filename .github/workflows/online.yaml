@@ -10,4 +10,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: |
-          curl "http://claude-light.cheme.cmu.edu:5000/api?R=0.12&G=0.45&B=1" 
+          curl "https://claude-light.cheme.cmu.edu/api?R=0.12&G=0.45&B=1" 
